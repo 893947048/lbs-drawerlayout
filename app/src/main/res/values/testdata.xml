@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="test_data">
+        <item>test 1</item>
+        <item>test 2</item>
+        <item>test 3</item>
+        <item>test 4</item>
+        <item>test 5</item>
+        <item>test 6</item>
+        <item>test 7</item>
+        <item>test 8</item>
+    </string-array>
+
+</resources>
